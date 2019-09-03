@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class MyApp here.
+ * MyApp 클래스는 메인메소드를 포함한 클래스입니다.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (2018 유재훈)
+ * @version (20190902)
  */
 public class MyApp
 {
@@ -11,7 +11,7 @@ public class MyApp
         Shape[] list = new Shape[3];
         list[0] = new Circle(10);
         list[1] = new Oval(20, 30);
-        list[2] = new Rect(10, 40);
+        list[2] = new Rec(10, 40);
         
         for(int i=0; i<list.length; i++)
             list[i].redraw();
