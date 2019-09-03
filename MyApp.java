@@ -2,8 +2,8 @@
 /**
  * MyApp 클래스는 메인메소드를 포함한 클래스입니다.
  *
- * @author (2018 유재훈)
- * @version (20190902)
+ * @author (2018315056 우메모토 세이야)
+ * @version (2019/09/02)
  */
 public class MyApp
 {

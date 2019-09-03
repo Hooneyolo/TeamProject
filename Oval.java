@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Oval here.
+ * Oval 클래스는 타원의 형태와 넓이를 알려주는 클래스입니다.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (2018315056 우메모토 세이야)
+ * @version (2019/09/03)
  */
 public class Oval implements Shape
 {
