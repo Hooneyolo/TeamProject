@@ -7,7 +7,7 @@
  */
 public class Circle implements Shape
 {
-    int radius;
+    private int radius;
     public Circle(int radius){
         this.radius=radius;
     }
