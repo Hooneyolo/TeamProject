@@ -3,7 +3,7 @@
  * Rec 클래스는 직사각형의 형태와 넓이를 알려주는 클래스입니다.
  * 
  * @author (2019243087 정찬호) 
- * @version (20190903)
+ * @version (2019/09/03)
  */
 public class Rec implements Shape
 {
