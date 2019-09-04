@@ -7,8 +7,8 @@
  */
 public class Rec implements Shape
 {
-    int width;
-    int hight;
+    private int width;
+    private int hight;
     public Rec(int width, int hight){
         this.width=width;
         this.hight=hight;

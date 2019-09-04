@@ -7,8 +7,8 @@
  */
 public class Oval implements Shape
 {
-    int radius1;
-    int radius2;
+    private int radius1;
+    private int radius2;
     public Oval(int radius1, int radius2) {
         this.radius1 = radius1;
         this.radius2 = radius2;
