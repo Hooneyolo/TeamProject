@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Practice and Team Project for Advanced Programming 2
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: Advanced Programming 2
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+VERSION or DATE: 2019 / 09 / 02 ~ ing ( Lasted Update - 2019 / 09 / 04 )
+HOW TO START THIS PROJECT: Advanced Programming 2 Class
+AUTHORS: Jehun Yoo , Umemoto-Seiya , Chanho Jung
+
