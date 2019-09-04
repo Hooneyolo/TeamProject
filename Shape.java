@@ -2,8 +2,8 @@
 /**
  * Shape 인터페이스- Circle, Oval, Rec가 상속받을 인터페이스입니다.
  * 
- * @author (2018315056 우메모토 세이야) 
- * @version (20190902)
+ * @author (2018315005 유제훈)
+ * @version (2019/09/02)
  */
 
 public interface Shape
