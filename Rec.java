@@ -14,9 +14,9 @@ public class Rec implements Shape
         this.hight=hight;
     }
     public void draw(){
-        System.out.println(width+"x"+hight+"크기의 사각형입니다.");
+        System.out.println(this.width+"x"+this.hight+"크기의 사각형입니다.");
     }
     public double getArea(){
-        return width*hight;
+        return this.width*this.hight;
     }
 }
