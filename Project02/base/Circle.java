@@ -23,6 +23,11 @@ public class Circle implements Shape
         return this.PI * this.radius * this.radius;
     }
     
+    public String toString() {
+        return "Circle(" + this.x + "," + 
+                        this.y + ")" + ", " + "반지름은 " + this.radius;
+    }
+    
     public boolean equals(Object obj) {
         Circle c = (Circle)obj;
         if(this.x == c.x && this.y == c.y) return true;
