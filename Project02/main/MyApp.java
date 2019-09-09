@@ -18,6 +18,5 @@ public class MyApp
             System.out.println("같은 원");
         else
             System.out.println("서로 다른 원");
-        
     }
 }
