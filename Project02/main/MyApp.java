@@ -1,8 +1,8 @@
 package Project02.main;
-
+import Project02.base.Circle;
 
 /**
- * 여기에 MyApp 클래스 설명을 작성하십시오.
+ * equals를 사용해 같은 원 다른 원 구분하는 MyApp
  * 
  * @author (2018315005 유제훈) 
  * @version (2019/09/09)
