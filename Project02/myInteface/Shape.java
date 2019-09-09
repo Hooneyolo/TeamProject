@@ -1,10 +1,10 @@
-package Projcet02.myInterface;
+package Project02.myInteface;
 
 
 /**
- *   인터페이스 Shape - Circle 클래스가 상속받을 인터페이스.
+ *   인터페이스 Shape - 여기에 인터페이스 설명을 작성하십시오.
  * 
- * @author (정찬호(이동)/2018315005 유제훈(전 작성) 
+ * @author (2018315005 유제훈(전 프로젝트)/2018243087 정찬호(이동)) 
  * @version (2019/09/09)
  */
 
